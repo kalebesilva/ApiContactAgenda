@@ -15,6 +15,6 @@ Utilize os seguintes link no thunder Client, insomnia e etc.:
 #### Pesquisar todos os contatos
 
 ```http
-GET: http://localhost:9000/contatos/
+GET http://localhost:9000/contatos/
 ```
 
