@@ -4,7 +4,7 @@ Projeto baseado no seguinte modelo MER:
 
 ## Como rodar
 
-1. Antes de qualquer coisa, mude a conecção com o banco de dados, em:
+1. Antes de qualquer coisa, mude a conexão com o banco de dados, em:
 
     > \oficina\src\main\resources\application.properties
 
