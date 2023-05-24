@@ -8,7 +8,7 @@ Projeto baseado no seguinte modelo MER:
 
     > \oficina\src\main\resources\application.properties
 
-### Testar:
+### Testar
 
 Utilize os seguintes link no thunder Client, insomnia e etc.:
 
