@@ -18,11 +18,11 @@
     "colId": "history",
     "containerId": "",
     "name": "http://localhost:9000/contatos/getall/",
-    "url": "http://localhost:9000/contatos/getall/",
+    "url": "http://localhost:9000/contatos/",
     "method": "GET",
     "sortNum": 0,
     "created": "2023-05-24T01:23:07.373Z",
-    "modified": "2023-05-24T01:23:07.373Z",
+    "modified": "2023-05-24T21:41:55.330Z",
     "headers": [],
     "params": [],
     "tests": []
