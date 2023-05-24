@@ -18,3 +18,8 @@ Utilize os seguintes link no thunder Client, insomnia e etc.:
 GET http://localhost:9000/contatos/
 ```
 
+#### Pesquisar tudo relacionado a tabela contatos
+
+```http
+GET 
+```
